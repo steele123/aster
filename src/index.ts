@@ -25,13 +25,11 @@ export const Layout = ({
     <head>
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <title>Aster</title>
+      <title>up up & away</title>
       <link rel="stylesheet" href="/style.css" />
       ${head}
     </head>
     <body>
-      <h1><a href="/">Aster</a></h1>
-      <p>Robust R2 file uploader.</p>
       <main>${main}</main>
       ${scripts}
     </body>
